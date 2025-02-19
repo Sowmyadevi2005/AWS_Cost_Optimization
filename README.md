@@ -1,4 +1,5 @@
 Python Scripts to reduce the cost by deleting unused and unutilized resources
+
 **NatGateways Deletion: **
 Step1: Create an EC2 Client: Connect to the EC2 service in the specified region. 
 Step2: Describe NAT Gateways: Retrieve information about all NAT Gateways. 
